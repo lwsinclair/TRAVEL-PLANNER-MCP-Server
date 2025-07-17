@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-travel-planner-mcp-server-badge.png)](https://mseep.ai/app/gongrzhe-travel-planner-mcp-server)
+
 # Travel Planner MCP Server (@gongrzhe/server-travelplanner-mcp)
 [![smithery badge](https://smithery.ai/badge/@GongRzhe/TRAVEL-PLANNER-MCP-Server)](https://smithery.ai/server/@GongRzhe/TRAVEL-PLANNER-MCP-Server)
 
